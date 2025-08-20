@@ -1,4 +1,4 @@
-const siteName = "ZeroPoint";
+const siteName = "eleventy-plugin-reusable-components-website";
 
 /**
  * Wait! Before you edit this file!
